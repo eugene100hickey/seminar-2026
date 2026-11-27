@@ -156,6 +156,8 @@ fa_list <- function(x, incremental = FALSE) {
 
 - these are some examples of the many mistakes I've made in the past
 
+- [sample excel file](https://atu-seminar-2026.netlify.app/data/cornu.xlsx)
+
 # Some Recommendations
 
 - raw data is gold dust
